@@ -1,0 +1,12 @@
+{
+    "search_criteria": [
+        {
+            "type": "ip",
+            "value": "104.21.34.66"
+        },
+        {
+            "type": "domain",
+            "value": "raaona.co/jp"
+        }
+    ]
+}
